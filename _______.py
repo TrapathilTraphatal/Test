@@ -1,0 +1,1 @@
+print ("Poroshenko for president")
