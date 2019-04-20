@@ -1,1 +1,1 @@
-print ("Poroshenko for president")
+print ("Poroshenko for president)))")
